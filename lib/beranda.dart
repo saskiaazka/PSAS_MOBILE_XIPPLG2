@@ -32,7 +32,7 @@ class Beranda extends StatelessWidget {
         Container(
           height: 100,
           width: 100,
-          color: Colors.amber,
+          color: Color.fromARGB(255, 156, 128, 165),
         ),
 
           ],
