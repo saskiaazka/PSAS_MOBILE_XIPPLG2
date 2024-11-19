@@ -13,12 +13,12 @@ class Beranda extends StatelessWidget {
               Container(
           height: 100,
           width: 100,
-          color: Colors.red,
+          color: Color.fromARGB(255, 200, 54, 244),
         ),
           Container(
           height: 100,
           width: 100,
-          color: Colors.green,
+          color: Color.fromARGB(255, 64, 206, 187),
           ),
          ],
         ),
@@ -27,12 +27,12 @@ class Beranda extends StatelessWidget {
           Container(
           height: 100,
           width: 100,
-          color: Colors.blue,
+          color: Color.fromARGB(255, 103, 185, 35),
         ),
         Container(
           height: 100,
           width: 100,
-          color: Colors.amber,
+          color: Color.fromARGB(255, 223, 159, 77),
         ),
 
           ],
